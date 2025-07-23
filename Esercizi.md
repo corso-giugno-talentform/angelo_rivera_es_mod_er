@@ -37,6 +37,8 @@ Considera quindi nel database:
 
 # Link social-network: https://miro.com/app/board/uXjVJbOvTTk=/?share_link_id=734665226849
 
+--------------------------
+
 **3) Sito di annunci**
 
 
